@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mobile-ui-automation" />
+        <module name="StockbitMobileUI" />
       </profile>
     </annotationProcessing>
   </component>
