@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-17T20:01:20 WIB" name="Surefire suite" finished-at="2025-10-17T20:01:40 WIB" duration-ms="19870">
+    <groups>
+    </groups>
+    <test started-at="2025-10-17T20:01:20 WIB" name="Surefire test" finished-at="2025-10-17T20:01:40 WIB" duration-ms="19870">
+      <class name="tests.ValidateCompanySchemaTest">
+        <test-method signature="validateSchemaAndIdNotNull()[pri:0, instance:tests.ValidateCompanySchemaTest@1d082e88]" started-at="2025-10-17T20:01:37 WIB" name="validateSchemaAndIdNotNull" finished-at="2025-10-17T20:01:40 WIB" duration-ms="3346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSchemaAndIdNotNull -->
+      </class> <!-- tests.ValidateCompanySchemaTest -->
+      <class name="tests.GetCompaniesQuantityTest">
+        <test-method signature="testCompaniesQuantity()[pri:0, instance:tests.GetCompaniesQuantityTest@70be0a2b]" started-at="2025-10-17T20:01:20 WIB" name="testCompaniesQuantity" finished-at="2025-10-17T20:01:37 WIB" duration-ms="16475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompaniesQuantity -->
+      </class> <!-- tests.GetCompaniesQuantityTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
